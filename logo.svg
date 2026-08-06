@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4f46e5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3730a3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="100" fill="url(#grad)"/>
+  <path fill="#ffffff" d="M256 120L100 200l156 80 156-80-156-80zM100 240v110c0 0 60 50 156 50s156-50 156-50V240l-156 80-156-80z"/>
+  <text x="256" y="440" font-family="Arial, sans-serif" font-weight="bold" font-size="48" fill="#ffffff" text-anchor="middle">TRB CBT</text>
+</svg>
